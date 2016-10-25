@@ -1,0 +1,47 @@
+body{
+background-color: white;
+}
+#menu{
+	margin: 0 auto;
+	float: left;
+	width: 15%;
+	overflow: scroll;
+
+}
+#header {
+
+	
+	border-radius: 1em;
+	float: left;
+	width: 82%;
+	background: beige;
+	margin-left: 1em;
+	boxsizing: border-box;
+	padding: 0.5em;	
+}
+#tables{
+	border-radius: 1em;
+	float: left;
+	width: 20%;
+	margin-left: 1em;
+	boxsizing: border-box;
+	padding: 0.5em;	
+	overflow: scroll;	
+}
+#tbl-str{
+border-radius: 1em;
+	float: left;
+	width: 61%;
+	margin-left: 1em;
+	boxsizing: border-box;
+	padding: 0.5em;	
+		
+}
+#tbl-str textarea{
+	background: beige;
+	color: black;
+	width: 100%;
+	font-size: 30px;
+	font-family: Adobe Myungjo Std M;
+	text-align: left;
+}

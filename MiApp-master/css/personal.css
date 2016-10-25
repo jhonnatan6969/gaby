@@ -1,0 +1,14 @@
+.principal{
+margin: 0 auto;
+overflow: hidden;
+width:90%;
+}
+
+
+.tres{
+	width: 33%;
+	margin: 0 auto;
+	float: left;
+	overflow: hidden;
+	padding: 1em;
+}
